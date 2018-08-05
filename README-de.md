@@ -9,6 +9,26 @@
 
 ## Motivation
 
+> Lerne das Konzipieren von großen Systemen
+>
+> Bereite dich für das System Design Vorstellungsgespräch vor
+
+### Lerne das Konzipieren von großen Systemen
+
+Das Wissen wie man große Systeme konzipiert wird dir helfen ein besser Ingenieur zu werden.
+
+Das Entwerfen von Systemen ist ein weites Feld. Es gibt eine **unüberschaubare Anzahl von, über das ganze Internet verstreute, Ressourcen** über Prinzipien des Entwurfs von Systemen.
+
+Dieses Repo ist eine **organisierte Sammlung** von Ressourcen um das Erlernen, des Entwurfs von großen Systemen, zu unterstützen.
+
+### Lerne von der Open-Source Gemeinschaft
+
+Das ist ein früher Entwurf eines kontinuierlich aktualisierten Open-Source Projekt.
+
+[Beiträge](#contributing) sind herzlich willkommen!
+
+### Bereite dich für das System Design Vorstellungsgespräch vor
+
 ## Anki Karteikarten
 
 ## Beitragen
